@@ -1025,19 +1025,19 @@ section {
   margin: 0 0 15px 0;
 }
 #footer p {
-  font-size: 15;
+  font-size: 15px;
   font-style: normal;
   padding: 0;
   margin: 0 0 40px 0;
 }
 #footer h5 {
-  font-size: 1rem;
+  font-size: 17px;
 }
 #footer a {
   color: #45505b;
   text-decoration:underline;
   text-decoration-color: #0563bb;
-  text-underline-offset: auto;
+  text-underline-offset: 5px;
 }
 #footer a:hover {
   color: #0563bb;

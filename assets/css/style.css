@@ -1037,6 +1037,11 @@ section {
   color: #45505b;
   text-decoration:underline;
   text-decoration-color: #0563bb;
+  text-underline-offset: auto;
+}
+#footer a:hover {
+  color: #0563bb;
+  text-decoration:none;
 }
 #footer .copyright {
   margin: 0 0 5px 0;

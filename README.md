@@ -1,7 +1,7 @@
 
 ## "Disruptive Technology: Streaming Services"
 
-This repository contains the GitHub pages code, project cards, and wiki for Group E's report on streaming services. The group made use of a premade template authored by BootstrapMade entitled MyResume. The repository includes CSS, HTML, and JavaScript to run the webpage. The code was further edited to tailor to the overall concept of the report. 
+This repository contains the GitHub pages code, project cards, and wiki for Group E's report on streaming services. The group made use of a premade template authored by BootstrapMade entitled MyResume. The repository includes CSS, HTML, and JavaScript to run the webpage. The template code was further edited to tailor to the overall concept of the report. 
 
 ### Contents
 

@@ -10,6 +10,7 @@ The repository contains the GitHub pages code, project cards, and wiki for Group
 ### Contents
 
 - [Our group](#mms-142-group-report)
+- [References] (#references)
 - [Theme](#theme)
 
 
@@ -25,6 +26,11 @@ Submitted by Group E
 - Fortes, Kirsten Bernice
 - Fulgueras, Bea Venette
 - Gallardo, Christine Joyce
+
+
+### References
+
+(dont forget to include yung ref ng img sa home page)
 
 
 ### Theme

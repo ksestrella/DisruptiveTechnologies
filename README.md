@@ -10,7 +10,6 @@ The repository contains the GitHub pages code, project cards, and wiki for Group
 ### Contents
 
 - [Our group](#mms-142-group-report)
-- [References] (#references)
 - [Theme](#theme)
 
 

@@ -29,9 +29,9 @@ Submitted by Group E
 
 ### References
 
-(author. <i>home page img orig title</i>. website. url.)
+Home page photo by [Pixabay](https://www.pexels.com/@pixabay) from [Pexels](https://www.pexels.com/photo/app-entertainment-ipad-mockup-265685/).
 
-Favicon made by [Freepik](https://www.freepik.com) from https://www.flaticon.com/free-icon/technological_4457368.
+Favicon made by [Freepik](https://www.freepik.com) from [Flaticon](https://www.flaticon.com/free-icon/technological_4457368).
 
 ### Theme
 

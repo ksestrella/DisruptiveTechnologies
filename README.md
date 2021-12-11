@@ -1,4 +1,3 @@
-
 ## Disruptive Technology: Streaming Services
 
 This GitHub page is a report about Disruptive Technologies, particularly "Streaming Services." The report includes its examples, mechanism, analytics, etc.
@@ -32,7 +31,7 @@ Submitted by Group E
 
 (author. <i>home page img orig title</i>. website. url.)
 
-
+Favicon made by [Freepik](https://www.freepik.com) from https://www.flaticon.com/free-icon/technological_4457368.
 
 ### Theme
 
